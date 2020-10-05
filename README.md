@@ -1,4 +1,4 @@
-# PV System in NYC
+# PV Systems in NYC
 
 The NYSERDA data - https://data.ny.gov/Energy-Environment/Solar-Electric-Programs-Reported-by-NYSERDA-Beginn/3x8r-34rs
 
